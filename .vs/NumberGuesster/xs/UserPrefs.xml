@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{854742C2-3A85-48E4-A04F-4E93D1C3F695}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NumberGuesster/Program.cs">
+    <Files>
+      <File FileName="NumberGuesster/Program.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NumberGuesster PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

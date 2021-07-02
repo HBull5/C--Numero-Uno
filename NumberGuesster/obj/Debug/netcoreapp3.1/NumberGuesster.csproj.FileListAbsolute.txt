@@ -1,0 +1,12 @@
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/bin/Debug/netcoreapp3.1/NumberGuesster.deps.json
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/bin/Debug/netcoreapp3.1/NumberGuesster.runtimeconfig.json
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/bin/Debug/netcoreapp3.1/NumberGuesster.runtimeconfig.dev.json
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/bin/Debug/netcoreapp3.1/NumberGuesster.dll
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/bin/Debug/netcoreapp3.1/NumberGuesster.pdb
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/obj/Debug/netcoreapp3.1/NumberGuesster.csproj.AssemblyReference.cache
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/obj/Debug/netcoreapp3.1/NumberGuesster.AssemblyInfoInputs.cache
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/obj/Debug/netcoreapp3.1/NumberGuesster.AssemblyInfo.cs
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/obj/Debug/netcoreapp3.1/NumberGuesster.csproj.CoreCompileInputs.cache
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/obj/Debug/netcoreapp3.1/NumberGuesster.dll
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/obj/Debug/netcoreapp3.1/NumberGuesster.pdb
+/Users/harcourtbull/Projects/NumberGuesster/NumberGuesster/obj/Debug/netcoreapp3.1/NumberGuesster.genruntimeconfig.cache
